@@ -1,4 +1,4 @@
-#FAP-Luggage-Activation-Pkg
+#FAP-Activation-Luggage-Pkg
 
 This is a Makefile for [The Luggage](https://github.com/unixorn/luggage) that packages the Activation and Registration files from FontAgent Pro 6.
 
